@@ -5,6 +5,8 @@ do{
 
   result = alc/gas
 
+    console.log("Resultado: " + result)
+  
   if(result > 0.7){
     console.log('Vale a pena comprar Gasolina')
   }
